@@ -1,0 +1,19 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  registration: 1
+  name: MyText
+  dBirth: 2022-11-15
+  guardian: MyString
+  adress: MyText
+  phone: 1
+  year: 1
+
+two:
+  registration: 1
+  name: MyText
+  dBirth: 2022-11-15
+  guardian: MyString
+  adress: MyText
+  phone: 1
+  year: 1
